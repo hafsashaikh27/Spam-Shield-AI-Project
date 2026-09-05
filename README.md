@@ -403,5 +403,5 @@ If you like this project, consider supporting it by:
 </p>
 
 <p align="center">
-  Made with 💙 by <strong>Hafsa Shaikh</strong>
+  Made by <strong>Hafsa Shaikh</strong>
 </p>
